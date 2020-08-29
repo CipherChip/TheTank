@@ -3,9 +3,9 @@ const client = new Discord.Client();
 
 exports.run = (client, message) => {
  message.channel.send({embed: {
-		  file:"https://",
+		  file:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRO-Ne2i3mexDOAIFqTHR8VqqRlXN1y96B8kg&usqp=CAU",
           color: 0xD96857,
-		  description: "**La Banane Senin Arkadasindan**"
+		  description: "**I don't care**"
             }});
 };
 
